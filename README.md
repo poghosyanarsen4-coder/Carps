@@ -52,8 +52,5 @@ A Python implementation of the classic casino game **Craps**, built using Object
 3. Run the script:
 
 ```bash
-python main.py
+python carps.py
 =======
-# Carps
-Object-Oriented Python implementation of the classic Craps dice game with console output.
->>>>>>> db682f60768d568b04571e0edfe9c77683c11bb0
